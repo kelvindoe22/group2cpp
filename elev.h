@@ -1,5 +1,5 @@
 
-#if !defined(VIP_ELEV_H) s
+#if !defined(VIP_ELEV_H)
 #define VIP_ELEV_H
 #include "app.h" 
 #include "msoftcon.h" 
